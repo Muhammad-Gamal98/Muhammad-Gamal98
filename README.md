@@ -1,6 +1,6 @@
-<!-- /*### Hi there 👋
+<!-- ### Hi there 👋
 
-<!--
+
 **Muhammad-Gamal98/Muhammad-Gamal98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->*/-->
+ -->
 <p align="center">
 
    <img alt="Coder GIF" height=450 width=550 src="https://thumbs.gfycat.com/EvilNextDevilfish-small.gif">
