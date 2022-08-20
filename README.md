@@ -1,4 +1,4 @@
-/*### Hi there 👋
+<!-- /*### Hi there 👋
 
 <!--
 **Muhammad-Gamal98/Muhammad-Gamal98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->*/
+-->*/-->
 <p align="center">
 
    <img alt="Coder GIF" height=450 width=550 src="https://thumbs.gfycat.com/EvilNextDevilfish-small.gif">
@@ -59,6 +59,6 @@ Here are some ideas to get you started:
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=muhammad-gamal98&show_icons=true&locale=en&layout=compact" alt="Muhammad-Gamal98" /></p>
 
-//<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yasser-shehab&" alt="yasser-shehab" /></p>
+<!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yasser-shehab&" alt="yasser-shehab" /></p> -->
   
 </p>
