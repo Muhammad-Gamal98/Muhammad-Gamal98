@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 <h1 align="center">Hi 👋, I'm Muhammad Gaml</h1>
 
 
-- 🔭 I’m currently working on [Clothing Store Web Application](https://clothing-store-sage.vercel.app/)
+<!-- - 🔭 I’m currently working on [Clothing Store Web Application](https://clothing-store-sage.vercel.app/) -->
 
 - 🌱 I’m currently learning **NodeJS , ReactJS **
 
